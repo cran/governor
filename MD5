@@ -1,10 +1,14 @@
-29e62d23fcfc11bcbf13d824e4112a62 *DESCRIPTION
+c6d4a883f8b477a06760d38fa40ac459 *DESCRIPTION
 0839158ef079ee2e0680db6ed52cc404 *LICENSE
 2e6b47d336b61dbee5c42ca214fd23c4 *NAMESPACE
-f1091f2694ebdba90b4681796543b575 *NEWS.md
+8759613cf48e6558bc015b76afc27dd9 *NEWS.md
 a8b09c1989a9a97f58396a26e6060fa7 *R/aaa.R
 d046ffda6542040d0a3a028964d48720 *R/governor.R
 391c5782869df9216f16d0646c15ca56 *R/timer.R
+63a7c4718a37e0f7ac5953bbf1571119 *build/vignette.rds
+21404bc53a0b1476ace45a5a730d614b *inst/doc/Overview.R
+b744cae4959d3e705da348f6a71a237a *inst/doc/Overview.Rmd
+96586e113a4ebfa6767b2252d72f829f *inst/doc/Overview.html
 e134cbecb1dee9dc41478c46e16a678d *man/gov_enable.Rd
 476ad82cf6ed01ec4f2ba9bbc5fe4c2f *man/gov_init.Rd
 e6f42c16eb8a6cdbe3d435dbdba6ec1f *man/gov_wait.Rd
@@ -15,5 +19,6 @@ ba37cdbdbfcb7f69ba078d787b1ad7ba *man/timer_init.Rd
 c3cd7ec5dfe9c76791d8e2750df951da *src/governor.c
 ccf73e37477d82e6ff4e59c3d28cdf60 *src/init.c
 62336d280677c020202b2892f3450c82 *src/timer.c
-088ee36694467ccf206915035111777d *src/utils.c
+9f7c17e92230c739fda47a5803850f5d *src/utils.c
 345b68de7dcd2fe4a500ea59fc214f93 *src/utils.h
+b744cae4959d3e705da348f6a71a237a *vignettes/Overview.Rmd
